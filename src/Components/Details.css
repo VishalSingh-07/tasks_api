@@ -1,0 +1,107 @@
+body
+{
+      text-align: center;
+      font-weight: 400;
+      color:rgba(0, 0, 0, 0.856);
+}
+.container{
+      background-color:aliceblue;
+      margin: 4rem 0 0 7rem;
+      width: 85%;
+      padding: 4rem 0 3.5rem 4rem;
+      text-align: center;
+      border-radius: 20px;
+      box-shadow: 1px 2px 10px rgba(26, 24, 24, 0.863);
+}
+.btn{
+      background-color:lightcoral;
+      color: white;
+      padding:10px;
+      border-radius: 5px;
+      margin-top: 1rem;
+}
+.main__container
+{
+      background-color:#fff;
+      display: flex;
+      flex-direction: column;
+      gap:1rem;
+      width: 75vw;
+      margin-bottom: 2rem;
+      border-radius: 1.2rem;
+      padding:2rem 1rem 1.5rem 1rem;
+      margin-left: 2rem;
+      box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.568);
+}
+
+.header_container
+{
+      display: flex;
+      flex-direction: row;
+      gap:5rem;
+      
+}
+.header_container>div
+{
+      width: 25rem;
+}
+.header_container>div>h3
+{
+      padding: 0.8rem;
+}
+.header_container>div>p
+{
+      padding-bottom: 0.4rem;
+}
+.header_container-company>h3{
+      font-weight: 400;
+}
+.expanded_container
+{
+      background-color:#f9f9f9 ;
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.568);
+      text-align: left;
+      border-radius: 2rem;
+      width: 95%;
+      margin-left: 2rem;
+      
+}
+.expanded_container-main
+{
+      padding: 2rem;
+}
+.expanded_container-top
+{
+      margin-top: 1rem;
+}
+.expanded_container-top>h4>a
+{
+      text-decoration: none;
+      cursor: pointer;
+      color: lightcoral;
+}
+.expanded_container-top>div
+{
+      margin-top: 1rem;
+}
+.description>h4
+{
+      padding-bottom: 0.5rem;
+}
+.expanded_container_bottom
+{
+      display: flex;
+      flex-direction: row;
+      gap:30%;
+      margin-top: 3rem;
+}
+.expanded_container_bottom-left>div,
+.expanded_container_bottom-right>div
+{
+      padding-bottom: 0.8rem;
+}
+.expanded_container_bottom-left>div>h4,
+.expanded_container_bottom-right>div>h4
+{
+      padding-bottom: 0.5rem;
+}
