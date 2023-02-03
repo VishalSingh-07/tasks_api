@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasks_api/static/css/main.ce64c91b.css",
+    "main.js": "/tasks_api/static/js/main.6f6da713.js",
+    "index.html": "/tasks_api/index.html",
+    "main.ce64c91b.css.map": "/tasks_api/static/css/main.ce64c91b.css.map",
+    "main.6f6da713.js.map": "/tasks_api/static/js/main.6f6da713.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce64c91b.css",
+    "static/js/main.6f6da713.js"
+  ]
+}
